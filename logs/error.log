@@ -1,0 +1,250 @@
+2016-04-22 20:26:27 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:26:46 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:26:47 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:26:47 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:26:47 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:27:13 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:27:19 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:27:20 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:27:27 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:27:28 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /pages/searchusers
+Referer URL: http://192.168.1.73/
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/PagesController.php(73): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\PagesController->searchusers()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:28:23 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/UserController.php(197): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\UserController->login()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UserController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:28:23 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/UserController.php(197): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\UserController->login()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UserController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:29:31 Error: [Cake\Network\Exception\NotFoundException] Please replace src/Template/Pages/home.ctp with your own version.
+Request URL: /
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(992): include()
+#1 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(952): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(587): Cake\View\View->_render('/var/www/html/s...')
+#3 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#4 /var/www/html/src/Controller/UserController.php(197): Cake\Controller\Controller->render()
+#5 [internal function]: App\Controller\UserController->login()
+#6 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#7 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UserController))
+#9 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-22 20:46:58 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [/var/www/html/src/Controller/PagesController.php, line 91]
+Request URL: /pages/searchlist
+Client IP: 192.168.1.73
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-22 20:46:58 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /pages/searchlist
+Client IP: 192.168.1.73
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/var/www/html/s...', 91)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
